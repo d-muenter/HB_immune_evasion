@@ -1,7 +1,7 @@
 # Source Code for Münter et al.  
 
  
-This repository contains code that was used for our manuscript "Multiomic analysis uncovers a continuous spectrum of differentiation and Wnt-MDK-driven immune evasion in hepatoblastoma" and deviated from previously published workflows.  
+This repository contains code that was used for our manuscript "Multiomic analysis uncovers a continuous spectrum of differentiation and Wnt-MDK-driven immune evasion in hepatoblastoma" (https://doi.org/10.1016/j.jhep.2025.01.031) and deviated from previously published workflows.  
 
 ### mIF Analysis  
 Code used for the analysis of MACSima multiplex immunofluorescence cell segmentation data.  
